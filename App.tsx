@@ -4,7 +4,7 @@ import React from 'react'
 export default function App() {
   return (
     <View>
-      <Text>App Tsx File in react native</Text>
+      <Text>App Tsx File in react native.</Text>
     </View>
   )
 }

@@ -6,6 +6,7 @@ export default function App() {
     <View>
       <Text>App Tsx File in react native.</Text>
       <Text>App Tsx File in react native(Button).</Text>
+      <Text>App Tsx File in react native(dropdown)</Text>
     </View>
   )
 }
